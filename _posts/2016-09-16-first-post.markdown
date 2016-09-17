@@ -9,4 +9,6 @@ Positly has been in a beta state for a while now but hasn't had anywhere to have
 
 For those who don't know; Positly is all about tracking opinions. It's not about being right or wrong but getting an understanding of what different people believe and think. With this data users can see how well their views line up with the majority as well as gain an understanding of how opinions relate to each other. 
 
+I've once again chosen to use [jekyll](https://jekyllrb.com/) as my blogging platform as it gives me low level access.
+
 I'll keep this short and hopefully quickly follow up with some more interesting posts as quick as I can.
